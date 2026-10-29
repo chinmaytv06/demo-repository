@@ -4,8 +4,13 @@ html{
 body{
     margin: auto;
     padding: 0%;
+    background-color: aquamarine;
 }
 p{
     font-family: sans-serif;
+}
+h3{
+    text-align: center;
+    background-color: yellow;
 }
 
